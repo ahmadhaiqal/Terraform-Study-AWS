@@ -1,0 +1,8 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars # optional, or only secret ones
+override.tf
+override.tf.json
+

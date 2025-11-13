@@ -2,7 +2,8 @@
 *.tfstate
 *.tfstate.*
 .terraform/
-*.tfvars # optional, or only secret ones
+*.tfvars
 override.tf
 override.tf.json
+*.pem
 
